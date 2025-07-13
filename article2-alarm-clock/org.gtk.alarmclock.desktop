@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=0.1.0
+Type=Application
+Name=Alarm Clock
+Comment=Alarms
+Exec=/home/your-user-name/Software/alarmclock/alarmclock
+Path=/home/your-user-name/Software/alarmclock
+Icon="time.svg"
